@@ -1,0 +1,6 @@
+1. Minimum edit distance between strings with insert, delete and replace operations. with same cost, with different costs.
+2. Stack of glasses, find liquid in each glass
+3. Maximum rectangle in a matrix of 1,0's 
+4. Given an array of numbers, and two players who can choose the numbers from either right or left. Find the winner player, the points are based on sum of numbers.
+5. Given a dictionary of strings and a sentence find that the sentence is composed of strings from dictionary.
+6. Eggs problem
